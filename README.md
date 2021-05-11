@@ -1,3 +1,3 @@
-# Javascript- 
+# Kanye and Cats- 
 
-I practiced using javascript with the help of Kanye West, his twitter quotes, and cats.
+I used the kanye.rest api to generate Kanye's random twitter quotes and The Cat API to generate random cute kitty pics 😹
